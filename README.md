@@ -38,7 +38,7 @@ The first parameter specifies the target file path. The second parameter specifi
 TaftssCrypter is developed as a .NET assembly that can be executed via a command and control center, making it compatible with red team simulations like Cobalt Strike. It seamlessly handles both encryption and decryption operations.
 
 <p align="center">
- <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20C2.png" alt="alt text" >  
+ <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20C2.png" alt="TaftssCrypter Encrypter C2" width="300" height="200">  
 </p>
 
 ### Encrypter Usage
