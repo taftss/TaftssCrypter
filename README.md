@@ -45,20 +45,20 @@ TaftssCrypter is developed as a .NET assembly that can be executed via a command
 `TaftssCrypter.exe -e "[Target Folder Path]" "[host/username]" "*.[TargetExtensions], *.[TargetExtensions],....,*.[TargetExtensions]"`
 
 <p align="center">
- <img src="[test](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E1.png)" alt="alt text" >  
+ <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E1.png" alt="TaftssCrypter Encrypter" >  
 </p>
 
 <p align="center">
- <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20C2.png" alt="alt text" >  
+ <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E2.png" alt="TaftssCrypter Encrypter" >  
 </p>
-
-![Before Encryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E1.png)
-
-![After Encryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E2.png)
 
 ### Decrypter Usage
 `TaftssCrypter.exe -d "[Target Folder Path]" "[host/username]" "*.[TargetExtensions], *.[TargetExtensions],....,*.[TargetExtensions]"`
 
-![Before Decryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D1.png)
+<p align="center">
+ <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D1.png" alt="TaftssCrypter Decrypter" >  
+</p>
 
-![After Decryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D2.png)
+<p align="center">
+ <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D2.png" alt="TaftssCrypter Decrypter" >  
+</p>
