@@ -28,7 +28,7 @@ The first parameter specifies the target file path. The second parameter specifi
 | ------------- | ------------------------------ |
 | `-e`      | Encrypter Mode.       |
 | `-d`   | Dencrypter Mode.      |
-| `Firt "" Parameter`   | Target Folder Full Path. For example "C:\\\"      |
+| `First "" Parameter`   | Target Folder Full Path. For example "C:\\\"      |
 | `Second "" Parameter`   | The hostname and username where the process is executed. You can use the output of the 'Whoami' command.     |
 | `Third "" Parameter`   | Target File Extensions. For example "*.*" or "*.txt,*.docx... etc"      |
 
@@ -50,9 +50,4 @@ TaftssCrypter is developed as a .NET assembly that can be executed via a command
 
 ![Before Decryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D1.png)
 
-<div style="text-align: center;">
-         <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D2.png" alt="alt text" class="center">
-      </div>
-
-
-
+![After Decryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D2.png)
