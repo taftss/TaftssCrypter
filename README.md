@@ -1,11 +1,14 @@
-# TaftssCrypter
+
 
 <p align="center">
  <img src="https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter.png" alt="alt text" >  
 </p>
 
+# TaftssCrypter
+
 TaftssCrypter is a C# application developed to measure the resilience of security products against ransomware attacks. TaftssCrypter is designed to simulate ransomware attacks and perform customized ransomware simulations
 
+Notice: This tool is developed exclusively for simulations. Please do not use it for illegal activities !
 
 ### Features
 
