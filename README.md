@@ -33,19 +33,19 @@ The first parameter specifies the target file path. The second parameter specifi
 | `Third "" Parameter`   | Target File Extensions. For example "*.*" or "*.txt,*.docx... etc"      |
 
 
-#### Command & Control Usage
+### Command & Control Usage
 TaftssCrypter is developed as a .NET assembly that can be executed via a command and control center, making it compatible with red team simulations like Cobalt Strike. It seamlessly handles both encryption and decryption operations.
 
 ![Command & Control](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20C2.png)
 
-#### Encrypter Usage
+### Encrypter Usage
 `TaftssCrypter.exe -e "[Target Folder Path]" "[host/username]" "*.[TargetExtensions], *.[TargetExtensions],....,*.[TargetExtensions]"`
 
 ![Before Encryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E1.png)
 
 ![After Encryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20E2.png)
 
-#### Decrypter Usage
+### Decrypter Usage
 `TaftssCrypter.exe -d "[Target Folder Path]" "[host/username]" "*.[TargetExtensions], *.[TargetExtensions],....,*.[TargetExtensions]"`
 
 ![Before Decryption](https://github.com/taftss/TaftssCrypter/blob/master/TaftssCrypter%20D1.png)
