@@ -18,12 +18,12 @@ TaftssCrypter is a C# application developed to measure the resilience of securit
 - It can be used with C2s like Cobalt Strike using 'execute-assembly'.
 - It can perform encryption and decryption processes.
 - It enables realistic ransomware attack simulations using the AES256 algorithm.
-- You can encrypt all files in the target folder, including subfolders, using "\*.\*".
+- You can encrypt all files in the target folder, including subfolders, using "\*.\*"
 
 ### Usage
 TaftssCrypter takes 4 different parameters. It operates by receiving a mode selection parameter and 3 target information parameters. The 3 target parameters are indicated with double quotation marks.
 
-The first parameter specifies the target file path. The second parameter specifies the username under which processes are executed (as obtained from the 'whoami' command output). The third parameter specifies the file extensions to be indicated in the form of "\*.\*"("." or "*.txt"for example).
+The first parameter specifies the target file path. The second parameter specifies the username under which processes are executed (as obtained from the 'whoami' command output). The third parameter specifies the file extensions to be indicated in the form of \*.\* (\*.\* or "*.txt"for example).
 
 | Paramater | Description                    |
 | ------------- | ------------------------------ |
